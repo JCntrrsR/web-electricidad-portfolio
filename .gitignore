@@ -1,0 +1,20 @@
+# dependencias
+node_modules/
+
+# build
+dist/
+dist.bak-*/
+
+# entorno (nunca se versiona)
+.env
+.env.*
+!.env.example
+
+# tests y cobertura
+coverage/
+playwright-report/
+test-results/
+
+# temporales
+*.log
+.DS_Store

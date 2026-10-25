@@ -1,0 +1,4 @@
+# La vitrina es solo documentación y capturas: nada de dependencias ni builds.
+node_modules/
+.DS_Store
+*.log
